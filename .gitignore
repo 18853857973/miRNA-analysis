@@ -1,0 +1,16 @@
+data
+old
+results
+.assess_read_quality
+.assess_trimmed_quality
+.calculate_mapping_statistics
+.construct_mapping_config_files
+.create_bowtie_indices
+.create_mirna_sequences
+.discover_novel_mirnas
+.download_genome_fasta
+.download_mirna_data
+.map_reads
+.quantify_mirnas
+.summarise_results
+.trim_reads
